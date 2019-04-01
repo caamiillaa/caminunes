@@ -1,7 +1,15 @@
-@import "./header";
+@import "./variables";
+@import "./logo";
+@import "./navbar";
 
 body {
 	background: white;
 	color: #dddddd;
 	font-family: sans-serif;
+	margin: 0;
+}
+
+.container {
+	max-width: 1200px;
+	width: 100%;
 }
