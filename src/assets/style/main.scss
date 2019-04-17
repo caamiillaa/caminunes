@@ -1,15 +1,35 @@
+// VARIABLES
 @import "./variables";
+
+//COMPONENTS
+@import "./carousel";
+@import "./block-title";
+@import "./footer";
+@import "./hero";
 @import "./logo";
 @import "./navbar";
+@import "./profile";
 
 body {
 	background: white;
-	color: #dddddd;
-	font-family: sans-serif;
+	color: $color-black;
+	font-family: "Rubik", sans-serif;
+	font-weight: 300;
+	letter-spacing: 0.5px;
+	line-height: 32px;
 	margin: 0;
 }
 
 .container {
-	max-width: 1200px;
+	margin: auto;
+	max-width: $screen-lg;
 	width: 100%;
+}
+
+.section {
+	margin: 4em 0;
+}
+
+.flexbox {
+	display: flex;
 }

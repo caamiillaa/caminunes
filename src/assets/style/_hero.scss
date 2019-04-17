@@ -1,0 +1,18 @@
+.hero {
+	align-items: center;
+	background-color: $color-primary;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	display: flex;
+	justify-content: center;
+	height: 100vh;
+
+	&--text {
+		color: $color-white;
+		font-size: 3em;
+		font-weight: 400;
+		margin: 0;
+		text-align: center;
+	}
+}

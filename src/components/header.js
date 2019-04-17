@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Logo from "./logo";
+import Logo from "./Logo";
 import NavBar from "./NavBar";
 import NavBarLinks from "./NavBarLinks";
 

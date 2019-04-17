@@ -1,0 +1,19 @@
+.profile {
+	display: flex;
+
+	&--item {
+		margin-bottom: 2.5em;
+		padding-left: 1em;
+
+		&__title {
+			font-size: 1em;
+			font-weight: 300;
+			margin: 0;
+			text-transform: uppercase;
+		}
+
+		&__text {
+			color: $color-gray;
+		}
+	}
+}

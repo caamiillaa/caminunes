@@ -1,0 +1,15 @@
+.block-title {
+	&--title {
+		color: $color-black;
+		font-weight: 300;
+		margin: 0;
+
+		&__detail {
+			color: $color-primary;
+			margin-right: 5px;
+		}
+	}
+	&--text {
+		color: $color-gray;
+	}
+}

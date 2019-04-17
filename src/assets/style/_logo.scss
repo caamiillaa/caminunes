@@ -1,4 +1,15 @@
 .logo {
 	height: $logo-height;
 	margin: $logo-margin 0;
+	margin-left: 20px;
+
+	@media screen and (min-width: $screen-lg) {
+		left: 0;
+		position: absolute;
+	}
+
+	@media screen and (min-width: $screen-lg + 40px) {
+		position: static;
+		margin-left: 0;
+	}
 }
