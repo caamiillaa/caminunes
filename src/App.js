@@ -1,10 +1,10 @@
 import React, { Component } from "react";
 import "./assets/style/main.scss";
-import Hero from "./components/Hero";
-import Header from "./components/Header";
-import Footer from "./components/Footer";
-import Portfolio from "./components/Portfolio";
-import Profile from "./components/Profile";
+import Hero from "./views/Hero";
+import Header from "./views/Header";
+import Footer from "./views/Footer";
+import Portfolio from "./views/Portfolio";
+import Profile from "./views/Profile";
 
 class App extends Component {
 	render() {

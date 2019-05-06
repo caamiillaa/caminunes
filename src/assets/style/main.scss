@@ -10,6 +10,10 @@
 @import "./navbar";
 @import "./profile";
 
+html {
+	scroll-behavior: smooth;
+}
+
 body {
 	background: white;
 	color: $color-black;
@@ -32,4 +36,9 @@ body {
 
 .flexbox {
 	display: flex;
+}
+
+.spacer {
+	height: $header-height + $section-margin;
+	margin-top: (($header-height + $section-margin) * -1);
 }

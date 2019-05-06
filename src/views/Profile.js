@@ -1,12 +1,13 @@
 import React, { Component } from "react";
-import AbilityItems from "./AbilityItems";
-import Section from "./Section";
+import AbilityItems from "../components/AbilityItems";
+import Section from "../components/Section";
 
 class Profile extends Component {
 	render() {
 		return (
 			<Section
 				title="about me"
+				id="about"
 				description="Brazilian, Graphic Designer. Started my web
 							designer career in 2007. UI/UX designer,
 							front-end programmer, product manager and event

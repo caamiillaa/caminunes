@@ -1,7 +1,9 @@
-import React, { Component } from "react";
+import React from "react";
+import Spacer from "../components/Spacer";
 
 const Section = props => (
-	<div className="section">
+	<div className="section" id={props.id}>
+		<Spacer />
 		<div className="flexbox container">
 			<div>
 				<div className="block-title">
