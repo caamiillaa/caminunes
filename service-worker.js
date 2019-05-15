@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/caminunes/precache-manifest.e1203312436d69fcd7f3268c9528c1eb.js"
+  "/caminunes/precache-manifest.a2d80464ee11a9ef3e230cd4d6e9d532.js"
 );
 
 workbox.clientsClaim();
