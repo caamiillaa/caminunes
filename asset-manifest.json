@@ -1,13 +1,15 @@
 {
-  "main.css": "/caminunes/static/css/main.58982206.chunk.css",
-  "main.js": "/caminunes/static/js/main.4ea5220f.chunk.js",
-  "main.js.map": "/caminunes/static/js/main.4ea5220f.chunk.js.map",
+  "main.css": "/caminunes/static/css/main.bc1526c1.chunk.css",
+  "main.js": "/caminunes/static/js/main.a68f7d6d.chunk.js",
+  "main.js.map": "/caminunes/static/js/main.a68f7d6d.chunk.js.map",
   "runtime~main.js": "/caminunes/static/js/runtime~main.7df7a4bb.js",
   "runtime~main.js.map": "/caminunes/static/js/runtime~main.7df7a4bb.js.map",
-  "static/js/2.b2f5ab12.chunk.js": "/caminunes/static/js/2.b2f5ab12.chunk.js",
-  "static/js/2.b2f5ab12.chunk.js.map": "/caminunes/static/js/2.b2f5ab12.chunk.js.map",
+  "static/js/2.037a77ab.chunk.js": "/caminunes/static/js/2.037a77ab.chunk.js",
+  "static/js/2.037a77ab.chunk.js.map": "/caminunes/static/js/2.037a77ab.chunk.js.map",
   "index.html": "/caminunes/index.html",
-  "precache-manifest.c9cf33e8f5d77bb3fa14a232a05506d5.js": "/caminunes/precache-manifest.c9cf33e8f5d77bb3fa14a232a05506d5.js",
+  "precache-manifest.e1203312436d69fcd7f3268c9528c1eb.js": "/caminunes/precache-manifest.e1203312436d69fcd7f3268c9528c1eb.js",
   "service-worker.js": "/caminunes/service-worker.js",
-  "static/css/main.58982206.chunk.css.map": "/caminunes/static/css/main.58982206.chunk.css.map"
+  "static/css/main.bc1526c1.chunk.css.map": "/caminunes/static/css/main.bc1526c1.chunk.css.map",
+  "static/media/logo.svg": "/caminunes/static/media/logo.cc35ed27.svg",
+  "static/media/mushi.jpg": "/caminunes/static/media/mushi.19db3b8f.jpg"
 }
